@@ -1122,9 +1122,8 @@ ABOUT
 }
 
 .about-image img{
-    width:100%;
-    max-width:500px;
-    border-radius:20px;
+    width:20%;
+    max-width:auto;
 }
 
 .about-content h2{
