@@ -1261,3 +1261,59 @@ RESPONSIVE
 @media (max-width: 480px){
 
 }
+
+/* ==========================================
+POLICY PAGES
+========================================== */
+
+.policy-page{
+    max-width:900px;
+    margin:80px auto;
+    padding:40px 20px;
+}
+
+.policy-page h1{
+    font-size:42px;
+    margin-bottom:10px;
+}
+
+.policy-page .updated{
+    color:#666;
+    margin-bottom:40px;
+    font-style:italic;
+}
+
+.policy-page h2{
+    margin-top:40px;
+    margin-bottom:15px;
+    color:#183b72;
+}
+
+.policy-page p,
+.policy-page li{
+    line-height:1.8;
+    color:#444;
+    margin-bottom:15px;
+}
+
+.policy-page ul{
+    padding-left:20px;
+}
+
+.policy-page a{
+    color:#183b72;
+    font-weight:600;
+}
+
+@media(max-width:768px){
+
+.policy-page{
+    margin:40px auto;
+    padding:20px;
+}
+
+.policy-page h1{
+    font-size:32px;
+}
+
+}
