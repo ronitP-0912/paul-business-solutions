@@ -1027,14 +1027,13 @@ CONTACT
 
 }
 
-.contact-info a{
-    color:inherit;
-    text-decoration:none;
-}
-
-.contact-info a:hover{
+.contact-info p a{
     color:#1d4b8f;
     text-decoration:underline;
+}
+
+.contact-info p a:hover{
+    color:#163d73;
 }
 
 /*=================================
